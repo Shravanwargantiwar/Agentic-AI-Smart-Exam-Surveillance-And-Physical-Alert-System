@@ -1,0 +1,35 @@
+# Agentic AI Smart Exam Surveillance System
+# Requirements
+
+# Core Dependencies
+opencv-python>=4.8.0
+numpy>=1.24.0
+pyyaml>=6.0
+
+# YOLO Detection
+ultralytics>=8.0.0
+
+# OpenVINO Optimization
+openvino>=2023.0
+openvino-dev>=2023.0
+
+# Pose Estimation
+mediapipe>=0.10.0
+
+# Tracking
+lap>=0.4.0
+scipy>=1.10.0
+filterpy>=1.4.5
+
+# Web Dashboard
+flask>=2.3.0
+flask-socketio>=5.3.0
+python-socketio>=5.8.0
+
+# Utilities
+Pillow>=9.5.0
+python-dateutil>=2.8.2
+tqdm>=4.65.0
+
+# Logging
+loguru>=0.7.0
